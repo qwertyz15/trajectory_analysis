@@ -54,7 +54,3 @@ The OOP version of the code uses two main classes:
 
 - `Trajectory`: Represents a vehicle trajectory with methods for calculating distance and bearing.
 - `TrajectoryPair`: Represents a pair of vehicle trajectories with a method for analyzing the leader-follower relationship and calculating the TTC.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
