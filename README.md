@@ -58,4 +58,3 @@ The OOP version of the code uses two main classes:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-# trajectory_analysis
