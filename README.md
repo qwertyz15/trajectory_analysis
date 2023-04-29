@@ -27,13 +27,13 @@ pip install -r requirements.txt
 To run the analysis, execute the `main.py` script for the functional implementation or `main_oop.py` for the OOP implementation:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 or
 
 ```bash
-python main_oop.py
+python3 main_oop.py
 ```
 
 The scripts will read the CSV files in the `data/` directory, analyze the trajectory pairs, and print the results to the console.
