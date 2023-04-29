@@ -53,3 +53,15 @@ The OOP version of the code uses two main classes:
 
 - `Trajectory`: Represents a vehicle trajectory with methods for calculating distance and bearing.
 - `TrajectoryPair`: Represents a pair of vehicle trajectories with a method for analyzing the leader-follower relationship and calculating the TTC.
+
+## Results
+
+After running the `main.py` script, the following results were obtained:
+
+```
+Pair (T1, T2): Leader = T2, Follower = T1, Min TTC = 120.30 seconds
+Pair (T1, T2_2): Leader = T2_2, Follower = T1, Min TTC = 87.24 seconds
+Pair (T3, T4): Leader = T4, Follower = T3, Min TTC = inf seconds
+```
+
+These results indicate the leader and follower vehicles for each trajectory pair, as well as the minimum TTC between them. In the case of (T3, T4), the TTC is infinite, which means the vehicles are not on a collision course.
