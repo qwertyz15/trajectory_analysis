@@ -10,7 +10,6 @@ The implementation is provided in two versions: the original functional code (`m
 - [Usage](#usage)
 - [Data](#data)
 - [Implementation](#implementation)
-- [License](#license)
 
 ## Installation
 
