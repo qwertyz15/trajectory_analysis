@@ -19,7 +19,7 @@ To use this code, clone the repository and install the required dependencies:
 ```bash
 git clone https://github.com/qwertyz15/trajectory_analysis.git
 cd trajectory_analysis
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
